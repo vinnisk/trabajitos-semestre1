@@ -36,19 +36,20 @@ print("y" not in "ejes")
 print("je" not in "ejes")
 ```
 #### operador "slicing" (rebanar)
-
+sirve para obtener un fragmento de una cadena dada si solo deseamos obtener un solo caracter, usaremos la indexacion
+- En la linea 22 obtenemos la primera letra de la cadena Hola, mundo!
 ``` python
+print("Hola, mundo!"[0])
 ```
+- En la linea 23 obtenemos la subcadena desde la segunda hasta la quinta letra, es decir, Hola
 ``` python
+print("Hola, mundo!"[1:5])
 ```
-
-
-
-
-#sirve para obtener un fragmento de una cadena dada si solo deseamos obtener un solo caracter, usaremos la indexacion
-#indecing
-
-print("Hola, mundo!"[0])#obtenemos la primera letra de la cadena Hola, mundo!
-print("Hola, mundo!"[1:5])#obtenemos la subcadena desde la segunda hasta la quinta letra, es decir, Hola
-print("Hola, mundo!"[6:])#obtenemos la subcadena desde la sexta hasta el final de la cadena, es decir, mundo!
-print("Hola, mundo!"[:-2])#obtenemos la subcadena desde la primera hasta la penultima letra, es decir, Hola, mund
+- En la linea 24 obtenemos la subcadena desde la sexta hasta el final de la cadena, es decir, mundo!
+``` python
+print("Hola, mundo!"[6:])
+```
+- En la linea 35 obtenemos la subcadena desde la primera hasta la penultima letra, es decir, Hola, mund
+``` python
+print("Hola, mundo!"[:-2])
+```
