@@ -1,4 +1,4 @@
-# programa 3: analizar los operadores de comparacion
+# programa 5: analizar los operadores de comparacion
 ## Fecha de elaboracion: 2024/10/18
 ### Elaborado por: Edgar Alejandro Esparza Reyes
 - La linea 4 muestra una comparacion entre dos cadenas, donde al ser exactamente iguales mostrara verdaderoverdadero
