@@ -1,4 +1,4 @@
 # Programa 3: Comprueba el funcionamiento de la adición
 # Fecha: 2024/10/22
 # Realizado por: Edgar Alejandro
-print("Mi"+ "nombre"+ "es" "Edinguer")
+print("Mi " + "nombre " + "es " + "Edinguer")
