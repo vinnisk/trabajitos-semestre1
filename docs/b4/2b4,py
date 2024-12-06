@@ -1,0 +1,7 @@
+# programa 2: Ciclo for con nombres
+# Fecha de elaboracion: 2024/11/4
+# Elaborado por: Edgar Alejandro Esparza Reyes
+lista = ["Luiz", "chuy", "mauricio"]
+
+for i in lista:
+    print("el nombre es", i)
