@@ -1,0 +1,13 @@
+# Programa 5: parametro y argumento
+# fecha: 2024/11/13
+# Realizado por: Edgar Alejandro
+
+def saludar (nombre, edad):
+    print(f"¡Hola, {nombre}!")
+    print(f"Tienes {edad} años")
+    print('¡Espero que te encuentres bien!')
+
+#Llamar la Función
+saludar("Edgar", 26)
+saludar("PEPE", 18)
+saludar("Choto", 23)
