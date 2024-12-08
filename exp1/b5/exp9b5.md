@@ -1,3 +1,7 @@
+# programa 9: Numeros primos entre 10 y 99
+## Fecha de elaboracion: 2024/11/15
+### Elaborado por: Edgar Alejandro
+
 ### **Explicación del código: Programa 9 - Números primos entre 10 y 99**  
 El programa verifica si un número ingresado por el usuario está en el rango de 10 a 99 y si es un número primo.  
 
